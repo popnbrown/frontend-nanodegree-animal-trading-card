@@ -1,0 +1,26 @@
+/* add your CSS here */
+body {
+	width: 320px;
+}
+
+img {
+	width: 300px;
+}
+
+.fact {
+	font-style: italic;
+}
+
+li span {
+	font-weight: bold;
+}
+
+ul {
+	list-style: none;
+}
+
+.card,
+.info {
+	border: 1px solid lightgrey;
+	padding: 10px;
+}
